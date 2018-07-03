@@ -6,16 +6,32 @@ body{
 	background-image:url(../img/patt.png)
 }
 
-#left_side, #right_side{
-	height:205px;
-}
-
 #container{
 	margin:50px auto;
-	max-width:598.5px;
 	color:#FFF;
+	max-width:635px;
+	width:635px;
 	font-size:11pt;
 	font-family:"Ubuntu", "Trebuchet MS", Arial, Helvetica, sans-serif
+}
+
+#left_side, #right_side{
+	height:205px;
+	display:inline-block
+}
+
+#left_side{
+	position:relative;
+	padding:20px;
+	background-image:url(../img/card_bg.png);
+	float:left;
+}
+
+#right_side{
+	position:relative;
+	padding:20px;
+	background-color:#06C;
+	float:left;
 }
 
 a{
@@ -27,17 +43,6 @@ a:hover{
 	color:#F90;
 }
 
-#left_side, #right_side{
-	display:inline-block;
-}
-
-#left_side{
-	float:right;
-	position:relative;
-	padding:20px;
-	background-color:#06C;
-}
-
 #transparent_layer{
 	background-color:#000;
 	position:absolute;
@@ -46,12 +51,6 @@ a:hover{
 	height:100%;
 	margin:-20px;
 	z-index:0;
-}
-
-#right_side{
-	position:relative;
-	padding:20px;
-	background-image:url(../img/card_bg.png);
 }
 
 #photo{
