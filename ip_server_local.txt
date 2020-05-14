@@ -1,0 +1,2748 @@
+Server: CA (Canada) Ontario Toronto -> 108.63.158.91 -> 20:1:18, Thursday 29 March, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+User: 11:31:45 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 19:4:14, Friday 30 March, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; SM-G900H Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.84 Mobile Safari/537.36
+User: 10:35:19 (GMT-4:0) 
+------------------------
+Server: CA (Canada) - - -> 216.208.146.98 -> 0:57:59, Wednesday 11 April, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+User: 16:28:24 (GMT-4:0) 
+------------------------
+Server: CA (Canada) - - -> 216.208.146.98 -> 1:1:15, Wednesday 11 April, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+User: 16:31:40 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 2:33:21, Wednesday 11 April, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+User: 18:3:50 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 8:25:26, Sunday 15 April, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+User: 23:55:55 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 19:15:27, Sunday 15 April, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+User: 10:45:57 (GMT-4:0) 
+------------------------
+Server: IR (Iran, Islamic Republic of) - - -> 5.114.78.90 -> 19:36:22, Sunday 15 April, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0
+User: 19:36:48 (GMT+4:30) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 38.116.199.110 -> 4:2:20, Wednesday 18 April, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+User: 19:32:50 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 38.116.199.110 -> 4:2:34, Wednesday 18 April, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+User: 19:33:5 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 38.116.199.110 -> 4:3:56, Wednesday 18 April, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/604.5.6 (KHTML, like Gecko) Version/11.0.3 Safari/604.5.6
+User: 19:34:27 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 4:36:9, Wednesday 18 April, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+User: 20:6:39 (GMT-4:0) 
+------------------------
+Server: RU (Russian Federation) Moscow City Moscow -> 188.32.25.212 -> 19:2:53, Thursday 19 April, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 YaBrowser/18.2.1.141 Yowser/2.5 Safari/537.36
+User: 17:33:22 (GMT+3:0) 
+------------------------
+Server: IT (Italy) Piemonte Valfenera -> 130.192.181.148 -> 21:50:1, Thursday 19 April, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+User: 19:20:9 (GMT+2:0) 
+------------------------
+Server: IT (Italy) Piemonte Valfenera -> 130.192.181.148 -> 21:54:37, Thursday 19 April, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+User: 19:24:45 (GMT+2:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 20:34:47, Friday 20 April, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+User: 12:5:18 (GMT-4:0) 
+------------------------
+Server: CN (China) Guangdong Shenzhen -> 113.89.99.20 -> 13:3:16, Monday 23 April, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.221 Safari/537.36 SE 2.X MetaSr 1.0
+User: 16:33:47 (GMT+8:0) 
+------------------------
+Server: CN (China) Guangdong Shenzhen -> 113.89.99.20 -> 13:10:55, Monday 23 April, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.221 Safari/537.36 SE 2.X MetaSr 1.0
+User: 16:41:27 (GMT+8:0) 
+------------------------
+Server: CA (Canada) Nova Scotia Halifax -> 156.34.3.133 -> 4:7:18, Thursday 26 April, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+User: 20:37:49 (GMT-3:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 9:24:11, Monday 30 April, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.117 Safari/537.36
+User: 0:54:44 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Quebec Gatineau -> 64.26.148.4 -> 23:49:28, Tuesday 1 May, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+User: 15:19:54 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Quebec Gatineau -> 64.26.148.4 -> 23:51:27, Tuesday 1 May, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+User: 15:21:53 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Quebec Gatineau -> 64.26.148.4 -> 23:51:40, Tuesday 1 May, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+User: 15:22:7 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Quebec Gatineau -> 64.26.148.4 -> 23:51:50, Tuesday 1 May, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+User: 15:22:17 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Quebec Gatineau -> 64.26.148.4 -> 23:51:57, Tuesday 1 May, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+User: 15:22:23 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Quebec Gatineau -> 64.26.148.4 -> 23:51:57, Tuesday 1 May, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+User: 15:22:22 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 20:42:15, Wednesday 2 May, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+User: 12:12:48 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 20:42:21, Wednesday 2 May, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+User: 12:12:54 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 16:59:16, Monday 7 May, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+User: 8:29:50 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 16:59:19, Monday 7 May, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+User: 8:29:52 (GMT-4:0) 
+------------------------
+Server: US (United States) - - -> 8.28.16.254 -> 19:26:7, Monday 7 May, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+User:  () 
+------------------------
+Server: CA (Canada) Ontario Woodbridge -> 206.47.249.246 -> 19:26:8, Monday 7 May, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+User: 10:56:41 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 3:5:51, Tuesday 8 May, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+User: 18:36:25 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 3:10:26, Tuesday 8 May, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+User: 18:41:0 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 3:15:52, Tuesday 8 May, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+User: 18:46:26 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 3:16:37, Tuesday 8 May, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+User: 18:47:11 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 3:28:29, Tuesday 8 May, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+User: 18:59:3 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 20:31:16, Tuesday 8 May, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+User: 16:1:51 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 23:38:33, Tuesday 8 May, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+User: 15:9:7 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.15 -> 17:51:11, Wednesday 9 May, 2018
+Browser: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.15 -> 18:41:16, Wednesday 9 May, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.16 -> 19:11:35, Wednesday 9 May, 2018
+Browser: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.15 -> 9:4:50, Saturday 12 May, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: NL (Netherlands) Noord-Brabant Eindhoven -> 131.155.239.104 -> 16:22:23, Monday 14 May, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+User: 13:52:58 (GMT+2:0) 
+------------------------
+Server: NL (Netherlands) Noord-Brabant Eindhoven -> 131.155.239.104 -> 16:22:19, Monday 14 May, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+User: 13:52:54 (GMT+2:0) 
+------------------------
+Server: JP (Japan) Tokyo Tokyo -> 124.39.122.115 -> 12:39:51, Thursday 17 May, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+User: 17:10:26 (GMT+9:0) 
+------------------------
+Server: BR (Brazil) Minas Gerais Belo Horizonte -> 201.17.211.203 -> 21:9:6, Thursday 17 May, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.139 Safari/537.36
+User: 13:39:10 (GMT-3:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.15 -> 18:8:41, Sunday 20 May, 2018
+Browser: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.16 -> 20:24:42, Sunday 20 May, 2018
+Browser: Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: RU (Russian Federation) Rostov Bataysk -> 128.69.222.231 -> 0:20:1, Monday 21 May, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+User: 19:50:37 (GMT+3:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 6:8:5, Monday 21 May, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+User: 21:38:42 (GMT-4:0) 
+------------------------
+Server: ID (Indonesia) Jawa Tengah Sukoharjo -> 120.188.79.204 -> 10:47:36, Monday 21 May, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0
+User: 23:17:58 (GMT-7:0) 
+------------------------
+Server: ID (Indonesia) Jawa Tengah Sukoharjo -> 120.188.79.204 -> 10:47:53, Monday 21 May, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0
+User: 23:18:15 (GMT-7:0) 
+------------------------
+Server: ID (Indonesia) Jawa Tengah Sukoharjo -> 120.188.79.204 -> 10:49:8, Monday 21 May, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0
+User: 23:19:29 (GMT-7:0) 
+------------------------
+Server: ID (Indonesia) Jawa Tengah Sukoharjo -> 120.188.79.204 -> 10:52:49, Monday 21 May, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; rv:53.0) Gecko/20100101 Firefox/53.0
+User: 23:23:11 (GMT-7:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.16 -> 11:41:2, Tuesday 22 May, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 13:39:49, Thursday 24 May, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+User: 5:10:26 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.64 -> 21:51:41, Thursday 24 May, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: RU (Russian Federation) Moscow City Moscow -> 95.220.211.50 -> 1:17:59, Saturday 26 May, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+User: 23:48:32 (GMT+3:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 23:16:21, Saturday 26 May, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+User: 14:46:59 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 23:16:25, Saturday 26 May, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+User: 14:47:2 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 23:20:14, Saturday 26 May, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+User: 14:50:52 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 23:20:21, Saturday 26 May, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+User: 14:50:58 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 23:22:35, Saturday 26 May, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+User: 14:53:12 (GMT-4:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.229 -> 17:54:59, Monday 28 May, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
+User: 15:25:37 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.229 -> 18:3:9, Monday 28 May, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
+User: 15:33:48 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.229 -> 18:4:23, Monday 28 May, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
+User: 15:35:1 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.229 -> 18:4:33, Monday 28 May, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
+User: 15:35:11 (GMT+2:0) 
+------------------------
+Server: CA (Canada) Ontario Kitchener -> 76.65.11.175 -> 18:55:31, Tuesday 29 May, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_1) AppleWebKit/602.2.14 (KHTML, like Gecko) Version/10.0.1 Safari/602.2.14
+User: 10:26:9 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 22:38:53, Wednesday 30 May, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+User: 14:9:33 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 2:53:29, Thursday 31 May, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+User: 18:24:9 (GMT-4:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.229 -> 12:53:1, Friday 1 June, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
+User: 10:23:38 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.229 -> 12:53:16, Friday 1 June, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
+User: 10:23:53 (GMT+2:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.238.112 -> 10:4:53, Sunday 3 June, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+User: 1:35:32 (GMT-4:0) 
+------------------------
+Server: CN (China) Guangdong Shenzhen -> 113.89.99.53 -> 6:33:10, Wednesday 6 June, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.221 Safari/537.36 SE 2.X MetaSr 1.0
+User: 10:3:50 (GMT+8:0) 
+------------------------
+Server: CN (China) Guangdong Shenzhen -> 113.89.99.53 -> 6:35:56, Wednesday 6 June, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.221 Safari/537.36 SE 2.X MetaSr 1.0
+User: 10:6:35 (GMT+8:0) 
+------------------------
+Server: CN (China) Beijing Beijing -> 220.181.132.198 -> 6:39:20, Wednesday 6 June, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+User: 10:10:0 (GMT+8:0) 
+------------------------
+Server: HK (Hong Kong) - Central District -> 58.64.185.39 -> 6:42:51, Wednesday 6 June, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+User: 10:13:28 (GMT+8:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 23:34:20, Wednesday 6 June, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.62 Safari/537.36
+User: 15:5:0 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 23:34:34, Wednesday 6 June, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.62 Safari/537.36
+User: 15:5:14 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.15 -> 4:49:2, Sunday 10 June, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 12:24:50, Monday 11 June, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+User: 3:55:32 (GMT-4:0) 
+------------------------
+Server: IT (Italy) Puglia Bitonto -> 79.47.91.195 -> 18:9:27, Saturday 16 June, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36
+User: 15:40:2 (GMT+2:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.236.146 -> 11:25:36, Monday 18 June, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+User: 2:56:19 (GMT-4:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.236.146 -> 11:26:12, Monday 18 June, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.79 Safari/537.36
+User: 2:56:54 (GMT-4:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.236.146 -> 11:42:1, Monday 18 June, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; SM-G900H Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36
+User: 3:13:57 (GMT-4:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.236.146 -> 11:42:18, Monday 18 June, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; SM-G900H Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36
+User: 3:14:14 (GMT-4:0) 
+------------------------
+Server: US (United States) California Menlo Park -> 173.252.122.59 -> 11:43:50, Monday 18 June, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/64.0.3282.140 Safari/537.36 Edge/17.17134
+User: 0:14:32 (GMT-7:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.236.146 -> 11:46:47, Monday 18 June, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; SM-G900H Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 49.0.0.15.89 Android (23/6.0.1; 480dpi; 1080x1920; samsung; SM-G900H; k3g; universal5422; en_US; 113249569)
+User: 3:18:43 (GMT-4:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.236.146 -> 11:47:10, Monday 18 June, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; SM-G900H Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 49.0.0.15.89 Android (23/6.0.1; 480dpi; 1080x1920; samsung; SM-G900H; k3g; universal5422; en_US; 113249569)
+User: 3:19:6 (GMT-4:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.236.146 -> 11:47:13, Monday 18 June, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; SM-G900H Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 49.0.0.15.89 Android (23/6.0.1; 480dpi; 1080x1920; samsung; SM-G900H; k3g; universal5422; en_US; 113249569)
+User: 3:19:9 (GMT-4:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.236.146 -> 11:47:34, Monday 18 June, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; SM-G900H Build/MMB29K; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/65.0.3325.109 Mobile Safari/537.36 Instagram 49.0.0.15.89 Android (23/6.0.1; 480dpi; 1080x1920; samsung; SM-G900H; k3g; universal5422; en_US; 113249569)
+User: 3:19:30 (GMT-4:0) 
+------------------------
+Server: CA (Canada) British Columbia Vancouver -> 50.92.189.19 -> 23:33:56, Monday 18 June, 2018
+Browser: Mozilla/5.0 (Linux; Android 8.1.0; Pixel 2 Build/OPM2.171026.006.C1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36 Instagram 49.0.0.15.89 Android (27/8.1.0; 420dpi; 1080x1794; Google/google; Pixel 2; walleye; walleye; en_CA; 113249569)
+User: 12:4:38 (GMT-7:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.236.146 -> 0:5:35, Tuesday 19 June, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; SM-G900H Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.109 Mobile Safari/537.36
+User: 15:37:32 (GMT-4:0) 
+------------------------
+Server: RU (Russian Federation) Stavropol' Georgievsk -> 37.147.251.46 -> 6:11:3, Wednesday 20 June, 2018
+Browser: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/47.0.2526.111 YaBrowser/16.2.0.3539 Safari/537.36
+User: 1:41:45 (GMT+3:0) 
+------------------------
+Server: CN (China) Guangdong Shenzhen -> 14.20.90.42 -> 5:8:16, Thursday 21 June, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.221 Safari/537.36 SE 2.X MetaSr 1.0
+User: 8:38:59 (GMT+8:0) 
+------------------------
+Server: CN (China) Guangdong Shenzhen -> 14.20.90.42 -> 5:8:49, Thursday 21 June, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.221 Safari/537.36 SE 2.X MetaSr 1.0
+User: 8:39:33 (GMT+8:0) 
+------------------------
+Server: CN (China) Guangdong Shenzhen -> 14.20.90.42 -> 5:9:59, Thursday 21 June, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.221 Safari/537.36 SE 2.X MetaSr 1.0
+User: 8:40:42 (GMT+8:0) 
+------------------------
+Server: CN (China) Beijing Beijing -> 220.181.132.191 -> 5:9:58, Thursday 21 June, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+User: 8:40:41 (GMT+8:0) 
+------------------------
+Server: CN (China) Beijing Beijing -> 101.199.112.51 -> 5:10:1, Thursday 21 June, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+User: 8:40:41 (GMT+8:0) 
+------------------------
+Server: CN (China) Beijing Beijing -> 101.199.110.107 -> 5:51:18, Thursday 21 June, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+User: 9:22:1 (GMT+8:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.15 -> 4:26:5, Sunday 24 June, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.238.163 -> 7:28:18, Tuesday 26 June, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+User: 22:59:2 (GMT-4:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 13:47:17, Tuesday 26 June, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
+User: 11:18:0 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 13:53:31, Tuesday 26 June, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
+User: 11:24:14 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 13:54:9, Tuesday 26 June, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:60.0) Gecko/20100101 Firefox/60.0
+User: 11:24:51 (GMT+2:0) 
+------------------------
+Server: NL (Netherlands) Noord-Brabant Eindhoven -> 31.223.170.208 -> 16:8:10, Thursday 28 June, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.62 Safari/537.36
+User: 13:38:54 (GMT+2:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.238.163 -> 0:0:30, Friday 29 June, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 19:31:16 (GMT-4:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.238.163 -> 0:8:39, Friday 29 June, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 19:39:25 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 22:35:4, Sunday 1 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 18:5:52 (GMT-4:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 13:18:33, Friday 6 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 10:49:19 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 13:21:15, Friday 6 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 10:52:1 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 13:21:18, Friday 6 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 10:52:4 (GMT+2:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.17 -> 0:33:37, Sunday 8 July, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: US (United States) California Fremont -> 45.79.96.34 -> 12:45:2, Monday 9 July, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36
+User: 16:15:50 (GMT+8:0) 
+------------------------
+Server: US (United States) California Fremont -> 45.79.96.34 -> 12:47:10, Monday 9 July, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.75 Safari/537.36
+User: 16:17:57 (GMT+8:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 20:33:47, Monday 9 July, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 12:4:35 (GMT-4:0) 
+------------------------
+Server: IR (Iran, Islamic Republic of) Tehran Tehran -> 46.224.170.72 -> 23:34:11, Monday 9 July, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 23:34:59 (GMT+4:30) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 12:3:30, Wednesday 11 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 9:34:18 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 16:20:14, Wednesday 11 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 13:51:2 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 16:22:54, Wednesday 11 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 13:53:42 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 18:25:31, Friday 13 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 15:56:20 (GMT+2:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 23:19:42, Saturday 14 July, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 14:50:32 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 23:20:23, Saturday 14 July, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 14:51:13 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 23:21:34, Saturday 14 July, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 14:52:23 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 2:4:43, Monday 16 July, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 17:35:33 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 2:4:50, Monday 16 July, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 17:35:40 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.15 -> 5:51:8, Monday 16 July, 2018
+Browser: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 13:58:38, Tuesday 17 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 11:29:27 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 13:59:16, Tuesday 17 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 11:30:6 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 13:59:25, Tuesday 17 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 11:30:14 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 13:59:29, Tuesday 17 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 11:30:18 (GMT+2:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 174.95.47.221 -> 18:55:41, Wednesday 18 July, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.1 Safari/605.1.15
+User: 10:26:32 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 174.95.47.221 -> 18:57:6, Wednesday 18 July, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.1 Safari/605.1.15
+User: 10:27:57 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.15 -> 8:6:32, Thursday 19 July, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 22:27:44, Friday 20 July, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 13:58:36 (GMT-4:0) 
+------------------------
+Server: RU (Russian Federation) Moscow City Moscow -> 37.204.201.64 -> 3:1:8, Saturday 21 July, 2018
+Browser: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/49.0.2623.112 Safari/537.36 OPR/36.0.2130.80
+User: 22:31:59 (GMT+3:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.16 -> 13:46:13, Saturday 21 July, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: NZ (New Zealand) - - -> 203.211.120.51 -> 3:19:29, Sunday 22 July, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 10:50:21 (GMT+12:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 12:7:24, Tuesday 24 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 9:38:15 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 12:7:40, Tuesday 24 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 9:38:31 (GMT+2:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 138.51.119.37 -> 20:17:35, Tuesday 24 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 11:48:29 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 138.51.119.37 -> 21:50:12, Tuesday 24 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 13:21:5 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 138.51.113.217 -> 3:40:43, Wednesday 25 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 23:11:34 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 138.51.113.217 -> 6:43:21, Wednesday 25 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 22:14:16 (GMT-4:0) 
+------------------------
+Server: IR (Iran, Islamic Republic of) - - -> 83.120.24.53 -> 7:43:11, Thursday 26 July, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G900H Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/6.4 Chrome/56.0.2924.87 Mobile Safari/537.36
+User: 7:56:42 (GMT+4:30) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 138.51.255.137 -> 4:11:9, Friday 27 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 19:42:4 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 174.118.74.190 -> 7:22:40, Friday 27 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 22:57:12 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 138.51.241.179 -> 7:29:29, Friday 27 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 23:0:23 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 138.51.241.179 -> 7:39:57, Friday 27 July, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 23:10:52 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 38.116.199.119 -> 19:25:41, Friday 27 July, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 10:56:36 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 65.93.19.81 -> 8:34:59, Tuesday 31 July, 2018
+Browser: Mozilla/5.0 (iPad; CPU OS 10_3_3 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) CriOS/68.0.3440.70 Mobile/14G60 Safari/602.1
+User: 0:5:55 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 65.93.19.81 -> 8:35:6, Tuesday 31 July, 2018
+Browser: Mozilla/5.0 (iPad; CPU OS 10_3_3 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) CriOS/68.0.3440.70 Mobile/14G60 Safari/602.1
+User: 0:6:2 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 65.93.19.81 -> 17:43:18, Tuesday 31 July, 2018
+Browser: Mozilla/5.0 (iPad; CPU OS 10_3_3 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) CriOS/68.0.3440.70 Mobile/14G60 Safari/602.1
+User: 9:14:13 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 138.51.240.116 -> 17:59:47, Tuesday 31 July, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 9:30:43 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 138.51.253.105 -> 20:11:5, Tuesday 31 July, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; SM-G900H Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36
+User: 11:43:32 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 138.51.253.105 -> 20:11:29, Tuesday 31 July, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; SM-G900H Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36
+User: 11:43:57 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 206.223.172.198 -> 3:45:16, Wednesday 1 August, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 19:16:12 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 38.116.199.119 -> 18:57:7, Wednesday 1 August, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 10:28:3 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 38.116.199.119 -> 18:58:13, Wednesday 1 August, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 10:29:10 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 38.116.199.119 -> 19:4:20, Wednesday 1 August, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 10:35:17 (GMT-4:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 13:34:55, Thursday 2 August, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 11:5:48 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 17:41:45, Monday 6 August, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 15:12:43 (GMT+2:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 4:38:21, Tuesday 7 August, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.84 Safari/537.36
+User: 20:9:19 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Quebec Terrebonne -> 74.57.134.86 -> 7:58:16, Wednesday 8 August, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 23:29:15 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 38.140.101.82 -> 0:45:16, Thursday 9 August, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_12_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36
+User: 16:16:15 (GMT-4:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 15:19:27, Tuesday 14 August, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 12:50:27 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 15:19:39, Tuesday 14 August, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 12:50:39 (GMT+2:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.70.29 -> 23:15:38, Tuesday 14 August, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 16:31:16, Thursday 16 August, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 14:2:16 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 16:31:34, Thursday 16 August, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 14:2:34 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 16:32:41, Thursday 16 August, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 14:3:41 (GMT+2:0) 
+------------------------
+Server: NZ (New Zealand) Waikato Hamilton -> 130.217.221.4 -> 3:50:10, Friday 17 August, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+User: 11:21:11 (GMT+12:0) 
+------------------------
+Server: NZ (New Zealand) Waikato Hamilton -> 130.217.221.4 -> 3:50:13, Friday 17 August, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+User: 11:21:14 (GMT+12:0) 
+------------------------
+Server: RU (Russian Federation) Moscow City Moscow -> 95.84.221.175 -> 10:28:23, Saturday 18 August, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/63.0.3239.132 YaBrowser/18.2.1.212 Yowser/2.5 Safari/537.36
+User: 5:59:24 (GMT+3:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.159 -> 0:46:47, Wednesday 22 August, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: FR (France) - - -> 82.127.126.185 -> 11:7:9, Wednesday 22 August, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15
+User: 8:38:12 (GMT+2:0) 
+------------------------
+Server: FR (France) - - -> 82.127.126.185 -> 11:12:14, Wednesday 22 August, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.1.2 Safari/605.1.15
+User: 8:43:17 (GMT+2:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 9:22:40, Friday 24 August, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+User: 0:53:43 (GMT-4:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 95.34.225.252 -> 18:45:58, Sunday 26 August, 2018
+Browser: Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.2 Chrome/59.0.3071.125 Mobile Safari/537.36
+User: 16:17:21 (GMT+2:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.236.111 -> 21:31:34, Sunday 26 August, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+User: 13:2:38 (GMT-4:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 14:36:55, Monday 27 August, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 12:7:59 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 14:37:3, Monday 27 August, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 12:8:7 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 14:37:16, Monday 27 August, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 12:8:20 (GMT+2:0) 
+------------------------
+Server: IR (Iran, Islamic Republic of) Tehran Tehran -> 5.78.45.9 -> 11:7:26, Wednesday 29 August, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+User: 2:38:31 (GMT-4:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 13:27:35, Monday 3 September, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 10:58:38 (GMT+2:0) 
+------------------------
+Server: CA (Canada) Ontario Richmond Hill -> 70.31.41.146 -> 16:39:20, Tuesday 4 September, 2018
+Browser: Mozilla/5.0 (Linux; Android 8.0.0; SM-G935F Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36
+User: 8:10:25 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.159 -> 0:10:34, Saturday 8 September, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 13:46:44, Monday 10 September, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:61.0) Gecko/20100101 Firefox/61.0
+User: 11:17:46 (GMT+2:0) 
+------------------------
+Server: US (United States) Texas Fort Worth -> 167.99.108.176 -> 16:57:39, Monday 10 September, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+User: 15:28:46 (GMT+3:0) 
+------------------------
+Server: US (United States) Texas Fort Worth -> 167.99.108.176 -> 17:0:11, Monday 10 September, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+User: 15:31:17 (GMT+3:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 1:20:55, Tuesday 11 September, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+User: 16:52:2 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 21:43:51, Tuesday 11 September, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+User: 13:14:59 (GMT-4:0) 
+------------------------
+Server:  () -  -> 185.239.173.197 -> 13:20:30, Friday 14 September, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36
+User: 13:21:38 (GMT+4:30) 
+------------------------
+Server:  () -  -> 185.239.173.197 -> 13:21:33, Friday 14 September, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36
+User: 13:22:41 (GMT+4:30) 
+------------------------
+Server:  () -  -> 185.239.173.197 -> 13:22:37, Friday 14 September, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36
+User: 13:23:45 (GMT+4:30) 
+------------------------
+Server:  () -  -> 185.239.173.197 -> 13:23:20, Friday 14 September, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36
+User: 13:24:28 (GMT+4:30) 
+------------------------
+Server:  () -  -> 185.239.173.197 -> 13:54:46, Friday 14 September, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.92 Safari/537.36
+User: 13:55:54 (GMT+4:30) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 7:2:55, Saturday 15 September, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+User: 22:34:4 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 7:3:5, Saturday 15 September, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+User: 22:34:15 (GMT-4:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 12:34:16, Tuesday 18 September, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+User: 10:5:24 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 12:34:25, Tuesday 18 September, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+User: 10:5:32 (GMT+2:0) 
+------------------------
+Server: CA (Canada) Ontario Nepean -> 66.48.12.178 -> 22:26:0, Tuesday 18 September, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+User: 13:57:9 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Nepean -> 66.48.12.178 -> 22:31:51, Tuesday 18 September, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.106 Safari/537.36
+User: 14:3:0 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 3:45:36, Wednesday 19 September, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 19:16:45 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.245.227.243 -> 4:50:6, Wednesday 19 September, 2018
+Browser: Mozilla/5.0 (Linux; Android 8.0.0; SM-G965W Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/68.0.3440.91 Mobile Safari/537.36
+User: 20:21:14 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.245.227.243 -> 5:15:39, Wednesday 19 September, 2018
+Browser: Mozilla/5.0 (Linux; Android 8.0.0; SM-G965W Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
+User: 20:46:47 (GMT-4:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 11:58:51, Wednesday 19 September, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+User: 9:30:1 (GMT+2:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 4:57:22, Friday 21 September, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 20:28:31 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 17:28:57, Friday 21 September, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 9:0:6 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 17:30:13, Friday 21 September, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 9:1:22 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 17:30:36, Friday 21 September, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 9:1:46 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 17:32:1, Friday 21 September, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 9:3:10 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 17:32:44, Friday 21 September, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 9:3:53 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 17:34:20, Friday 21 September, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 9:5:30 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 17:39:22, Friday 21 September, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 9:10:32 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 17:42:7, Friday 21 September, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 9:13:17 (GMT-4:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 17:50:10, Friday 21 September, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+User: 15:21:18 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 17:55:8, Friday 21 September, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+User: 15:26:15 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 95.34.225.252 -> 23:27:13, Friday 21 September, 2018
+Browser: Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36
+User: 21:59:21 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 95.34.225.252 -> 10:42:2, Saturday 22 September, 2018
+Browser: Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36
+User: 9:14:7 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 14:31:54, Monday 24 September, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+User: 13:3:4 (GMT+2:0) 
+------------------------
+Server: CN (China) Guangdong Shenzhen -> 113.89.96.206 -> 6:46:44, Tuesday 25 September, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0
+User: 11:17:55 (GMT+8:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 17:10:40, Tuesday 25 September, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+User: 15:41:50 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 17:11:3, Tuesday 25 September, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+User: 15:42:14 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 17:11:18, Tuesday 25 September, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+User: 15:42:29 (GMT+2:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 22:35:58, Wednesday 26 September, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 15:7:9 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 22:39:14, Wednesday 26 September, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 15:10:25 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 22:40:5, Wednesday 26 September, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 15:11:16 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 6:48:35, Saturday 29 September, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 3:19:45 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 6:49:6, Saturday 29 September, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 3:20:17 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 6:50:10, Saturday 29 September, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 3:21:21 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 6:50:34, Saturday 29 September, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 3:21:45 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 6:51:18, Saturday 29 September, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 3:22:29 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 6:51:46, Saturday 29 September, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 3:22:57 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.66.139 -> 20:52:51, Saturday 29 September, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 95.34.225.252 -> 21:21:52, Saturday 29 September, 2018
+Browser: Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36
+User: 19:54:13 (GMT+2:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 2:39:14, Sunday 30 September, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 19:10:25 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 2:43:23, Sunday 30 September, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 19:14:34 (GMT-4:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 95.34.225.252 -> 11:40:45, Sunday 30 September, 2018
+Browser: Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36
+User: 10:13:7 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 95.34.225.252 -> 12:47:47, Sunday 30 September, 2018
+Browser: Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36
+User: 11:20:9 (GMT+2:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 7:15:20, Monday 1 October, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 23:46:32 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 7:15:23, Monday 1 October, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 23:46:35 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 7:16:49, Monday 1 October, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 23:48:0 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 7:18:45, Monday 1 October, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 23:49:57 (GMT-4:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 10:15:55, Monday 1 October, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+User: 8:47:3 (GMT+2:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 137.122.64.155 -> 22:16:53, Tuesday 2 October, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 14:48:4 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 1:38:12, Wednesday 3 October, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 18:9:24 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 1:38:14, Wednesday 3 October, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 18:9:26 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.157 -> 0:1:47, Thursday 4 October, 2018
+Browser: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 2:13:28, Thursday 4 October, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 18:44:40 (GMT-4:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 14:19:15, Thursday 4 October, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+User: 12:50:25 (GMT+2:0) 
+------------------------
+Server: IN (India) - - -> 14.139.114.4 -> 9:26:59, Monday 8 October, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 11:31:1 (GMT+5:30) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 18:25:26, Tuesday 9 October, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 10:56:40 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 4:28:57, Friday 12 October, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 21:0:11 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 5:55:52, Friday 12 October, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 22:27:6 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 72.142.126.26 -> 19:34:9, Sunday 14 October, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 12:5:24 (GMT-4:0) 
+------------------------
+Server: US (United States) Delaware Wilmington -> 162.245.85.67 -> 11:16:22, Monday 15 October, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 11:17:37 (GMT+3:30) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 13:18:41, Tuesday 16 October, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0
+User: 11:49:55 (GMT+2:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 7:35:24, Thursday 18 October, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 0:6:39 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Quebec Montréal -> 205.204.65.227 -> 17:55:10, Friday 19 October, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/604.3.5 (KHTML, like Gecko) Version/11.0.1 Safari/604.3.5
+User: 10:26:9 (GMT-4:0) 
+------------------------
+Server: IT (Italy) Piemonte Grugliasco -> 188.10.212.117 -> 7:8:17, Tuesday 23 October, 2018
+Browser: Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36
+User: 5:39:34 (GMT+2:0) 
+------------------------
+Server: TR (Turkey) Gaziantep Gaziantep -> 193.140.48.38 -> 11:21:8, Thursday 25 October, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 10:51:8 (GMT+3:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 23:34:10, Sunday 28 October, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 16:4:10 (GMT-4:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 14:34:18, Monday 29 October, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+User: 12:4:18 (GMT+1:0) 
+------------------------
+Server: CA (Canada) Quebec Gatineau -> 76.68.203.6 -> 3:26:3, Tuesday 30 October, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 19:56:3 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Quebec Gatineau -> 76.68.203.6 -> 3:26:34, Tuesday 30 October, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 19:56:34 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 184.175.11.189 -> 6:4:50, Wednesday 31 October, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+User: 22:34:54 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.150 -> 1:13:41, Saturday 3 November, 2018
+Browser: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: GB (United Kingdom) - - -> 51.38.124.151 -> 2:37:55, Saturday 3 November, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; SAMSUNG SM-G900H Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36
+User: 2:50:39 (GMT+3:30) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 95.34.225.252 -> 0:26:8, Monday 5 November, 2018
+Browser: Mozilla/5.0 (Linux; Android 7.0; SAMSUNG SM-G610F Build/NRD90M) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/7.4 Chrome/59.0.3071.125 Mobile Safari/537.36
+User: 21:56:18 (GMT+1:0) 
+------------------------
+Server: HK (Hong Kong) - Central District -> 144.214.37.120 -> 14:2:33, Tuesday 6 November, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 18:32:28 (GMT+8:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.152 -> 11:18:20, Sunday 11 November, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 16:0:0 (GMT-8:0) 
+------------------------
+Server: AU (Australia) Western Australia Perth -> 59.102.86.95 -> 16:17:27, Sunday 11 November, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36
+User: 23:47:28 (GMT+11:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 99.241.245.168 -> 21:58:51, Sunday 11 November, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 13:28:51 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 64.18.88.250 -> 1:49:20, Wednesday 14 November, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 17:19:20 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 64.18.88.250 -> 1:50:33, Wednesday 14 November, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 17:20:32 (GMT-5:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.148 -> 2:2:39, Wednesday 14 November, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 16:0:0 (GMT-8:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.236.130 -> 22:39:36, Sunday 18 November, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 14:9:36 (GMT-5:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.236.130 -> 22:46:35, Sunday 18 November, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 14:16:35 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Quebec Montréal -> 24.114.87.126 -> 10:46:43, Monday 19 November, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; SM-G900H Build/MMB29K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
+User: 2:19:2 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 8:0:27, Tuesday 20 November, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 23:30:27 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 174.114.232.41 -> 0:43:57, Friday 23 November, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.1 Safari/605.1.15
+User: 16:13:57 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 174.114.232.41 -> 1:4:28, Friday 23 November, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.1 Safari/605.1.15
+User: 16:34:28 (GMT-5:0) 
+------------------------
+Server: CA (Canada) - - -> 216.208.146.98 -> 1:22:49, Friday 23 November, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+User: 16:52:43 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 3:24:48, Friday 23 November, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 18:54:48 (GMT-5:0) 
+------------------------
+Server: CA (Canada) British Columbia Vancouver -> 50.68.117.109 -> 6:2:14, Friday 23 November, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+User: 18:32:14 (GMT-8:0) 
+------------------------
+Server: CA (Canada) British Columbia Vancouver -> 50.68.117.109 -> 6:2:40, Friday 23 November, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.102 Safari/537.36
+User: 18:32:40 (GMT-8:0) 
+------------------------
+Server: CA (Canada) Quebec Gatineau -> 206.172.101.99 -> 5:15:33, Wednesday 28 November, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User: 20:45:33 (GMT-5:0) 
+------------------------
+Server: US (United States) California Alameda -> 206.189.25.155 -> 17:21:50, Wednesday 28 November, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User: 5:51:50 (GMT-8:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 22:2:40, Saturday 1 December, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 13:32:40 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 22:3:17, Saturday 1 December, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 13:33:17 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 22:3:22, Saturday 1 December, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 13:33:22 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 22:4:3, Saturday 1 December, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 13:34:2 (GMT-5:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.65.158 -> 21:16:49, Monday 3 December, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.65.84 -> 6:30:55, Tuesday 4 December, 2018
+Browser: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: CA (Canada) Ontario Scarborough -> 99.244.244.74 -> 3:19:28, Wednesday 5 December, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+User: 18:49:30 (GMT-5:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.236.130 -> 5:48:17, Wednesday 5 December, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User: 21:18:17 (GMT-5:0) 
+------------------------
+Server: IR (Iran, Islamic Republic of) - - -> 31.130.181.148 -> 22:52:36, Saturday 8 December, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+User: 22:52:48 (GMT+3:30) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 2:13:11, Monday 10 December, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 17:43:11 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 2:13:27, Monday 10 December, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 17:43:27 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 2:13:44, Monday 10 December, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 17:43:44 (GMT-5:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 15:35:50, Monday 10 December, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0
+User: 13:5:50 (GMT+1:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 19:7:25, Monday 10 December, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 10:37:25 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 19:8:32, Monday 10 December, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 10:38:32 (GMT-5:0) 
+------------------------
+Server: CA (Canada) - - -> 216.208.146.98 -> 22:12:59, Monday 10 December, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User: 13:42:53 (GMT-5:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.66.158 -> 9:11:12, Tuesday 11 December, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 16:0:0 (GMT-8:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 17:42:23, Tuesday 11 December, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User: 14:12:23 (GMT-5:0) 
+------------------------
+Server: CA (Canada) - - -> 216.208.146.98 -> 18:52:55, Thursday 13 December, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User: 10:22:47 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 18:58:28, Friday 14 December, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 10:28:28 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 1:31:42, Saturday 15 December, 2018
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.110 Safari/537.36
+User: 17:1:42 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 7:48:0, Sunday 16 December, 2018
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 23:18:0 (GMT-5:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.66.158 -> 21:13:47, Sunday 16 December, 2018
+Browser: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.66.158 -> 7:41:39, Tuesday 25 December, 2018
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 16:0:0 (GMT-8:0) 
+------------------------
+Server: CN (China) Guangdong Shenzhen -> 14.20.89.233 -> 4:59:11, Wednesday 26 December, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0
+User: 9:29:11 (GMT+8:0) 
+------------------------
+Server: CN (China) Shanghai Shanghai -> 180.163.220.66 -> 4:59:41, Wednesday 26 December, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+User: 9:29:36 (GMT+8:0) 
+------------------------
+Server: CN (China) Shanghai Shanghai -> 180.163.220.4 -> 4:59:42, Wednesday 26 December, 2018
+Browser: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+User: 9:29:33 (GMT+8:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.236.146 -> 7:54:55, Wednesday 26 December, 2018
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+User: 23:24:57 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Boardman -> 34.209.175.228 -> 15:42:10, Tuesday 8 January, 2019
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User: 12:12:10 (GMT0:0) 
+------------------------
+Server: US (United States) Oregon Boardman -> 35.162.55.4 -> 17:46:19, Tuesday 8 January, 2019
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User: 14:16:19 (GMT0:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 0:36:8, Wednesday 9 January, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 16:6:7 (GMT-5:0) 
+------------------------
+Server: BR (Brazil) - - -> 191.186.188.237 -> 5:55:10, Wednesday 9 January, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+User: 23:25:10 (GMT-3:0) 
+------------------------
+Server: BR (Brazil) - - -> 191.186.188.237 -> 5:55:50, Wednesday 9 January, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+User: 23:25:49 (GMT-3:0) 
+------------------------
+Server: BR (Brazil) - - -> 191.186.188.237 -> 5:55:58, Wednesday 9 January, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+User: 23:25:58 (GMT-3:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 7:39:17, Wednesday 9 January, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 23:9:17 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 7:42:18, Wednesday 9 January, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 23:12:18 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 19:33:29, Wednesday 9 January, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 11:3:30 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 20:31:1, Wednesday 9 January, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 12:1:1 (GMT-5:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.66.157 -> 23:52:47, Wednesday 9 January, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 16:0:0 (GMT-8:0) 
+------------------------
+Server: US (United States) - - -> 40.90.223.51 -> 1:10:9, Friday 11 January, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+User: 13:40:9 (GMT-8:0) 
+------------------------
+Server: CN (China) Guangdong Shenzhen -> 113.118.235.202 -> 10:45:52, Friday 18 January, 2019
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0
+User: 15:15:52 (GMT+8:0) 
+------------------------
+Server: CN (China) Guangdong Shenzhen -> 113.118.235.202 -> 10:45:58, Friday 18 January, 2019
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0
+User: 15:15:58 (GMT+8:0) 
+------------------------
+Server: CN (China) Guangdong Shenzhen -> 113.118.235.202 -> 10:46:0, Friday 18 January, 2019
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0
+User: 15:16:0 (GMT+8:0) 
+------------------------
+Server: CN (China) Guangdong Shenzhen -> 113.118.235.202 -> 10:46:6, Friday 18 January, 2019
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0
+User: 15:16:6 (GMT+8:0) 
+------------------------
+Server: CN (China) Guangdong Shenzhen -> 113.118.235.202 -> 10:46:7, Friday 18 January, 2019
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0
+User: 15:16:6 (GMT+8:0) 
+------------------------
+Server: CN (China) Guangdong Shenzhen -> 113.118.235.202 -> 10:46:8, Friday 18 January, 2019
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.36 SE 2.X MetaSr 1.0
+User: 15:16:7 (GMT+8:0) 
+------------------------
+Server: CN (China) Henan Zhengzhou -> 42.236.10.78 -> 10:46:17, Friday 18 January, 2019
+Browser: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+User: 15:16:16 (GMT+8:0) 
+------------------------
+Server: CN (China) Shanghai Shanghai -> 180.163.220.66 -> 10:46:22, Friday 18 January, 2019
+Browser: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+User: 15:16:21 (GMT+8:0) 
+------------------------
+Server: CN (China) Henan Zhengzhou -> 42.236.10.114 -> 10:46:24, Friday 18 January, 2019
+Browser: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36
+User: 15:16:21 (GMT+8:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 20:27:1, Saturday 19 January, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+User: 11:57:1 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 20:57:1, Saturday 19 January, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+User: 12:27:0 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 21:3:20, Saturday 19 January, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+User: 12:33:20 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 21:3:45, Saturday 19 January, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+User: 12:33:45 (GMT-5:0) 
+------------------------
+Server: DE (Germany) Brandenburg Döberitz -> 91.64.133.21 -> 0:17:26, Monday 21 January, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+User: 21:47:26 (GMT+1:0) 
+------------------------
+Server: DE (Germany) Brandenburg Döberitz -> 91.64.133.21 -> 0:17:39, Monday 21 January, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+User: 21:47:39 (GMT+1:0) 
+------------------------
+Server: DE (Germany) Brandenburg Döberitz -> 91.64.133.21 -> 0:18:15, Monday 21 January, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+User: 21:48:15 (GMT+1:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 6:48:53, Tuesday 22 January, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 22:18:53 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 20:13:36, Tuesday 22 January, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 11:43:36 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 4:13:4, Friday 25 January, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 19:43:4 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 21:50:55, Friday 25 January, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 13:20:55 (GMT-5:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.66.159 -> 0:16:3, Saturday 26 January, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 16:0:0 (GMT-8:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 95.34.225.252 -> 12:51:30, Saturday 26 January, 2019
+Browser: Mozilla/5.0 (Linux; Android 8.1.0; SAMSUNG SM-G610F Build/M1AJQ) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/8.2 Chrome/63.0.3239.111 Mobile Safari/537.36
+User: 10:21:35 (GMT+1:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 174.114.173.210 -> 20:27:42, Saturday 26 January, 2019
+Browser: Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+User: 11:57:41 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 2:43:16, Sunday 27 January, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 18:13:16 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Quebec Montréal -> 205.204.65.227 -> 2:11:9, Thursday 31 January, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+User: 17:41:9 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 8:1:44, Thursday 31 January, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36
+User: 23:31:44 (GMT-5:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.66.159 -> 22:10:51, Friday 1 February, 2019
+Browser: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: CA (Canada) Quebec Montréal -> 132.205.229.148 -> 2:46:32, Sunday 3 February, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+User: 18:16:38 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Quebec Montréal -> 132.205.229.148 -> 2:48:13, Sunday 3 February, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+User: 18:18:19 (GMT-5:0) 
+------------------------
+Server: US (United States) Minnesota Minneapolis -> 192.55.2.36 -> 5:46:44, Sunday 3 February, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+User: 20:19:44 (GMT-6:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 5:58:32, Tuesday 5 February, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36
+User: 21:28:32 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Quebec Montréal -> 132.205.229.148 -> 18:53:48, Tuesday 5 February, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36
+User: 10:23:45 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 19:54:46, Tuesday 5 February, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36
+User: 11:24:46 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 19:55:49, Tuesday 5 February, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36
+User: 11:25:49 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 19:58:34, Tuesday 5 February, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36
+User: 11:28:34 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 19:58:55, Tuesday 5 February, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36
+User: 11:28:56 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 19:59:47, Tuesday 5 February, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36
+User: 11:29:47 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 20:0:26, Tuesday 5 February, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36
+User: 11:30:27 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 20:1:12, Tuesday 5 February, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36
+User: 11:31:12 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 20:1:26, Tuesday 5 February, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36
+User: 11:31:26 (GMT-5:0) 
+------------------------
+Server: US (United States) Florida Melbourne -> 163.118.78.48 -> 21:58:27, Tuesday 5 February, 2019
+Browser: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+User: 13:28:27 (GMT-5:0) 
+------------------------
+Server: US (United States) Florida Melbourne -> 163.118.78.48 -> 21:59:22, Tuesday 5 February, 2019
+Browser: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+User: 13:29:22 (GMT-5:0) 
+------------------------
+Server: US (United States) Florida Melbourne -> 163.118.78.48 -> 22:0:11, Tuesday 5 February, 2019
+Browser: Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:65.0) Gecko/20100101 Firefox/65.0
+User: 13:30:11 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 19:8:38, Wednesday 6 February, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 10:38:37 (GMT-5:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 11:20:10, Thursday 7 February, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+User: 8:50:9 (GMT+1:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.111.183 -> 11:20:24, Thursday 7 February, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0
+User: 8:50:23 (GMT+1:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.180 -> 5:59:18, Saturday 9 February, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 16:0:0 (GMT-8:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.66.157 -> 11:32:23, Sunday 10 February, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 16:0:0 (GMT-8:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 20:5:18, Sunday 10 February, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+User: 11:35:19 (GMT-5:0) 
+------------------------
+Server: RU (Russian Federation) Moscow City Moscow -> 93.80.129.106 -> 7:0:51, Monday 11 February, 2019
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 YaBrowser/18.10.2.163 Yowser/2.5 Safari/537.36
+User: 6:30:51 (GMT+3:0) 
+------------------------
+Server: US (United States) California Watsonville -> 71.84.8.117 -> 20:33:51, Wednesday 13 February, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.81 Safari/537.36
+User: 9:3:51 (GMT-8:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.182 -> 0:3:5, Friday 15 February, 2019
+Browser: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 3:25:15, Saturday 16 February, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.96 Safari/537.36
+User: 18:55:15 (GMT-5:0) 
+------------------------
+Server: IE (Ireland) Dublin Dublin -> 137.43.130.68 -> 17:57:57, Wednesday 20 February, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.181 Safari/537.36
+User: 14:28:27 (GMT0:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 21:34:28, Saturday 23 February, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+User: 13:4:27 (GMT-5:0) 
+------------------------
+Server: US (United States) Minnesota Saint Paul -> 38.200.5.8 -> 20:28:17, Monday 25 February, 2019
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User: 10:58:3 (GMT-6:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 20:29:46, Monday 25 February, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.109 Safari/537.36
+User: 11:59:46 (GMT-5:0) 
+------------------------
+Server: US (United States) California Los Angeles -> 128.125.148.0 -> 19:43:37, Wednesday 27 February, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36
+User: 8:13:36 (GMT-8:0) 
+------------------------
+Server: IR (Iran, Islamic Republic of) - - -> 5.112.156.127 -> 22:26:11, Wednesday 27 February, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; D6633 Build/23.5.A.1.291) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36
+User: 22:26:9 (GMT+3:30) 
+------------------------
+Server: IN (India) Karnataka Bangalore -> 139.59.7.90 -> 0:16:45, Thursday 28 February, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; D6633 Build/23.5.A.1.291) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/66.0.3359.158 Mobile Safari/537.36
+User: 0:16:43 (GMT+3:30) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 2:28:34, Saturday 2 March, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 17:58:34 (GMT-5:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.66.155 -> 0:50:52, Sunday 3 March, 2019
+Browser: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: IR (Iran, Islamic Republic of) Tehran Tehran -> 89.219.83.97 -> 21:41:9, Monday 4 March, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.119 Safari/537.36
+User: 21:41:28 (GMT+3:30) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 1:19:39, Tuesday 5 March, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 16:49:39 (GMT-5:0) 
+------------------------
+Server: RU (Russian Federation) Moscow City Moscow -> 37.204.67.170 -> 15:33:20, Saturday 9 March, 2019
+Browser: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 15:3:19 (GMT0:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.147 -> 14:21:32, Sunday 10 March, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 16:0:0 (GMT-8:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.177 -> 18:1:31, Tuesday 12 March, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 16:0:0 (GMT-8:0) 
+------------------------
+Server: AT (Austria) Oberosterreich Wels -> 193.170.126.20 -> 18:18:46, Friday 15 March, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+User: 15:48:46 (GMT+1:0) 
+------------------------
+Server: AT (Austria) Oberosterreich Wels -> 193.170.126.20 -> 18:20:42, Friday 15 March, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+User: 15:50:42 (GMT+1:0) 
+------------------------
+Server: CA (Canada) Newfoundland St. John's -> 174.118.81.30 -> 18:22:45, Friday 15 March, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+User: 10:52:45 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Boardman -> 34.209.175.187 -> 18:20:50, Monday 18 March, 2019
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; rv:11.0) like Gecko
+User: 14:50:50 (GMT0:0) 
+------------------------
+Server: BR (Brazil) - - -> 191.186.188.237 -> 1:39:2, Wednesday 27 March, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+User: 18:9:2 (GMT-3:0) 
+------------------------
+Server: BR (Brazil) - - -> 191.186.188.237 -> 1:39:50, Wednesday 27 March, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+User: 18:9:50 (GMT-3:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.175 -> 10:47:22, Wednesday 27 March, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: CA (Canada) Ontario Mississauga -> 72.141.144.210 -> 3:36:30, Thursday 28 March, 2019
+Browser: Mozilla/5.0 (Linux; Android 8.0.0; SM-G955W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+User: 19:6:29 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.175 -> 4:59:14, Thursday 28 March, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: TR (Turkey) Ankara Bahçelievler -> 95.0.60.11 -> 17:55:38, Tuesday 2 April, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+User: 16:25:38 (GMT+3:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.175 -> 0:38:30, Thursday 4 April, 2019
+Browser: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: DE (Germany) Bayern Neu-ulm -> 217.10.13.210 -> 12:23:7, Thursday 4 April, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+User: 9:53:6 (GMT+2:0) 
+------------------------
+Server: DE (Germany) Bayern Neu-ulm -> 217.10.13.210 -> 12:23:11, Thursday 4 April, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+User: 9:53:11 (GMT+2:0) 
+------------------------
+Server: DE (Germany) Bayern Neu-ulm -> 217.10.13.210 -> 12:24:18, Thursday 4 April, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+User: 9:54:18 (GMT+2:0) 
+------------------------
+Server: DE (Germany) Bayern Neu-ulm -> 217.10.13.210 -> 12:24:44, Thursday 4 April, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+User: 9:54:44 (GMT+2:0) 
+------------------------
+Server: DE (Germany) Bayern Neu-ulm -> 217.10.13.210 -> 12:24:54, Thursday 4 April, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+User: 9:54:54 (GMT+2:0) 
+------------------------
+Server: DE (Germany) Bayern Neu-ulm -> 217.10.13.210 -> 12:24:59, Thursday 4 April, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.86 Safari/537.36
+User: 9:54:59 (GMT+2:0) 
+------------------------
+Server: CA (Canada) Ontario Ottawa -> 137.122.64.159 -> 0:5:35, Friday 5 April, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Safari/605.1.15
+User: 15:35:35 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.66.91 -> 11:26:20, Tuesday 9 April, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: CN (China) Beijing Beijing -> 218.247.253.169 -> 12:41:58, Tuesday 9 April, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/72.0.3626.121 Safari/537.36
+User: 16:11:57 (GMT+8:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.110.148 -> 17:1:52, Tuesday 9 April, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+User: 14:31:50 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.110.148 -> 17:2:5, Tuesday 9 April, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+User: 14:32:3 (GMT+2:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 129.241.110.148 -> 17:2:8, Tuesday 9 April, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+User: 14:32:6 (GMT+2:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.66.91 -> 23:42:1, Wednesday 10 April, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 16:0:0 (GMT-8:0) 
+------------------------
+Server: US (United States) - - -> 8.28.16.254 -> 1:12:5, Tuesday 16 April, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+User:  () 
+------------------------
+Server: US (United States) California Santa Clara -> 155.64.38.80 -> 1:12:5, Tuesday 16 April, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+User:  () 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 199.198.251.109 -> 1:12:6, Tuesday 16 April, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+User: 16:42:5 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 199.198.251.109 -> 1:12:55, Tuesday 16 April, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+User: 16:42:55 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Brampton -> 72.136.100.20 -> 1:13:59, Tuesday 16 April, 2019
+Browser: Mozilla/5.0 (Linux; Android 9; SM-G960W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+User: 16:43:58 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Brampton -> 72.136.100.20 -> 1:14:3, Tuesday 16 April, 2019
+Browser: Mozilla/5.0 (Linux; Android 9; SM-G960W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+User: 16:44:0 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 199.198.251.109 -> 1:25:17, Tuesday 16 April, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+User: 16:55:17 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 199.198.251.109 -> 1:28:40, Tuesday 16 April, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+User: 16:58:40 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 7:52:24, Tuesday 16 April, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+User: 23:22:24 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 7:52:37, Tuesday 16 April, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+User: 23:22:37 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 7:57:24, Tuesday 16 April, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+User: 23:27:24 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario York -> 72.143.194.229 -> 21:32:49, Tuesday 16 April, 2019
+Browser: Mozilla/5.0 (Linux; Android 9; SM-G960W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+User: 13:2:47 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Nepean -> 99.224.28.105 -> 2:27:58, Wednesday 17 April, 2019
+Browser: Mozilla/5.0 (Linux; Android 9; SM-G960W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.90 Mobile Safari/537.36
+User: 17:57:57 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.66.90 -> 22:14:14, Tuesday 30 April, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: IR (Iran, Islamic Republic of) - - -> 91.98.198.147 -> 17:5:56, Wednesday 8 May, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+User: 17:5:23 (GMT+4:30) 
+------------------------
+Server: IR (Iran, Islamic Republic of) - - -> 91.98.198.147 -> 17:8:16, Wednesday 8 May, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+User: 17:7:43 (GMT+4:30) 
+------------------------
+Server: IR (Iran, Islamic Republic of) - - -> 91.98.198.147 -> 17:8:25, Wednesday 8 May, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+User: 17:7:52 (GMT+4:30) 
+------------------------
+Server: IR (Iran, Islamic Republic of) - - -> 91.98.198.147 -> 17:10:52, Wednesday 8 May, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+User: 17:10:17 (GMT+4:30) 
+------------------------
+Server: IR (Iran, Islamic Republic of) - - -> 91.98.198.147 -> 17:11:9, Wednesday 8 May, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+User: 17:10:37 (GMT+4:30) 
+------------------------
+Server: CA (Canada) - - -> 207.35.46.18 -> 2:9:23, Thursday 9 May, 2019
+Browser: Mozilla/5.0 (Linux; Android 9; SM-G970W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.136 Mobile Safari/537.36
+User: 17:39:21 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 9:49:28, Saturday 11 May, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36
+User: 1:19:28 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.66.90 -> 19:31:11, Wednesday 15 May, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 6:22:16, Friday 17 May, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 21:52:16 (GMT-4:0) 
+------------------------
+Server: RU (Russian Federation) Moscow City Moscow -> 178.140.161.253 -> 10:50:50, Saturday 18 May, 2019
+Browser: Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.137 YaBrowser/17.4.1.919 Yowser/2.5 Safari/537.36
+User: 9:20:49 (GMT0:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 23:38:28, Saturday 18 May, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 15:8:28 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 23:38:30, Saturday 18 May, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 15:8:30 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 23:38:37, Saturday 18 May, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 15:8:37 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 10:4:6, Sunday 19 May, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 1:34:5 (GMT-4:0) 
+------------------------
+Server: GB (United Kingdom) Manchester Manchester -> 130.88.110.53 -> 13:54:45, Wednesday 22 May, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36
+User: 10:24:45 (GMT+1:0) 
+------------------------
+Server: GB (United Kingdom) Manchester Manchester -> 130.88.110.53 -> 13:54:56, Wednesday 22 May, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36
+User: 10:24:56 (GMT+1:0) 
+------------------------
+Server:  () -  -> 185.239.173.109 -> 17:30:46, Thursday 23 May, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+User: 17:30:45 (GMT+4:30) 
+------------------------
+Server: CA (Canada) Ontario Brampton -> 72.140.33.216 -> 22:29:17, Saturday 25 May, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+User: 13:59:17 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 0:25:28, Sunday 26 May, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.131 Safari/537.36
+User: 15:55:28 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.175 -> 1:16:59, Sunday 26 May, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 7:55:47, Sunday 26 May, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+User: 23:25:47 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 8:0:14, Sunday 26 May, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+User: 23:30:14 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 8:0:36, Sunday 26 May, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+User: 23:30:36 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 8:0:38, Sunday 26 May, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+User: 23:30:39 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 8:0:48, Sunday 26 May, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+User: 23:30:48 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 8:0:50, Sunday 26 May, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+User: 23:30:50 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 8:1:33, Sunday 26 May, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+User: 23:31:33 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 8:2:28, Sunday 26 May, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+User: 23:32:29 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.70.15 -> 10:11:41, Tuesday 4 June, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 10:24:22, Tuesday 4 June, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+User: 1:54:22 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 5:5:58, Tuesday 11 June, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.80 Safari/537.36
+User: 20:35:58 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.175 -> 18:47:34, Sunday 16 June, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 21:26:8, Sunday 16 June, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 12:56:8 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.175 -> 3:50:29, Monday 17 June, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: FR (France) Ile-de-France Paris -> 84.14.209.106 -> 18:58:41, Monday 17 June, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0 Safari/605.1.15
+User: 16:28:41 (GMT+2:0) 
+------------------------
+Server: CN (China) Guangdong Shenzhen -> 113.87.21.41 -> 5:45:33, Tuesday 18 June, 2019
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3314.0 Safari/537.36 SE 2.X MetaSr 1.0
+User: 9:15:33 (GMT+8:0) 
+------------------------
+Server: CN (China) Guangdong Shenzhen -> 113.87.21.41 -> 5:45:55, Tuesday 18 June, 2019
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3314.0 Safari/537.36 SE 2.X MetaSr 1.0
+User: 9:15:55 (GMT+8:0) 
+------------------------
+Server: CN (China) Guangdong Shenzhen -> 113.87.21.41 -> 5:46:12, Tuesday 18 June, 2019
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3314.0 Safari/537.36 SE 2.X MetaSr 1.0
+User: 9:16:12 (GMT+8:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 6:13:49, Friday 28 June, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 21:43:49 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 6:14:13, Friday 28 June, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 21:44:13 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Alberta Edmonton -> 50.65.129.222 -> 5:47:21, Saturday 6 July, 2019
+Browser: Mozilla/5.0 (Linux; Android 8.0.0; SAMSUNG SM-G935W8 Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/9.2 Chrome/67.0.3396.87 Mobile Safari/537.36
+User: 19:17:20 (GMT-6:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 20:48:10, Saturday 6 July, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 12:18:10 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Quebec Montréal -> 38.74.19.141 -> 0:32:31, Monday 8 July, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+User: 16:3:58 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.175 -> 5:41:26, Monday 8 July, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:0:10, Friday 12 July, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:66.0) Gecko/20100101 Firefox/66.0
+User: 19:30:11 (GMT-4:0) 
+------------------------
+Server: US (United States) - - -> 8.28.16.254 -> 18:56:57, Tuesday 16 July, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+User:  () 
+------------------------
+Server: US (United States) California Santa Clara -> 155.64.38.80 -> 18:56:58, Tuesday 16 July, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+User:  () 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 199.198.251.109 -> 18:56:59, Tuesday 16 July, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.100 Safari/537.36
+User: 10:26:57 (GMT-4:0) 
+------------------------
+Server: US (United States) - - -> 18.217.223.118 -> 18:3:43, Friday 19 July, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+User:  () 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 199.198.223.104 -> 18:3:44, Friday 19 July, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+User: 9:33:43 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 199.198.223.104 -> 18:3:46, Friday 19 July, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+User: 9:33:46 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 199.198.223.104 -> 18:4:14, Friday 19 July, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36
+User: 9:34:14 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 192.12.175.49 -> 1:32:2, Saturday 20 July, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Safari/605.1.15
+User: 17:1:34 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 1:8:10, Sunday 21 July, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 16:38:10 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.66.90 -> 11:51:7, Wednesday 24 July, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 204.101.180.106 -> 2:38:32, Tuesday 30 July, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 18:8:32 (GMT-4:0) 
+------------------------
+Server: CA (Canada) - - -> 207.35.46.18 -> 18:44:32, Tuesday 30 July, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 10:14:32 (GMT-4:0) 
+------------------------
+Server: CA (Canada) - - -> 207.35.46.18 -> 23:34:13, Tuesday 30 July, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 15:4:13 (GMT-4:0) 
+------------------------
+Server: CA (Canada) - - -> 207.35.46.18 -> 21:51:38, Wednesday 31 July, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 13:21:38 (GMT-4:0) 
+------------------------
+Server: CA (Canada) - - -> 207.35.46.18 -> 21:52:42, Wednesday 31 July, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 13:22:42 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 17:3:7, Thursday 1 August, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 8:33:7 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 6:3:34, Friday 2 August, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 21:33:33 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 20:41:7, Saturday 3 August, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 12:11:7 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 20:56:7, Saturday 3 August, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 12:26:7 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Quebec Montréal -> 205.204.65.227 -> 1:31:57, Saturday 10 August, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+User: 17:1:57 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Quebec Montréal -> 205.204.65.227 -> 1:32:22, Saturday 10 August, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+User: 17:2:22 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Quebec Montréal -> 205.204.65.227 -> 1:33:12, Saturday 10 August, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36
+User: 17:3:12 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.177 -> 5:47:44, Friday 23 August, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.175 -> 10:39:56, Sunday 25 August, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.175 -> 1:16:35, Thursday 29 August, 2019
+Browser: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: CA (Canada) Ontario Barrie -> 174.112.200.166 -> 1:41:46, Thursday 29 August, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_4) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1 Safari/605.1.15
+User: 17:11:46 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 7:30:50, Thursday 29 August, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 23:0:49 (GMT-4:0) 
+------------------------
+Server: ES (Spain) Madrid Madrid -> 83.37.223.151 -> 23:30:47, Friday 30 August, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+User: 21:0:47 (GMT+2:0) 
+------------------------
+Server: ES (Spain) Madrid Madrid -> 83.37.223.151 -> 23:31:12, Friday 30 August, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+User: 21:1:12 (GMT+2:0) 
+------------------------
+Server: ES (Spain) Madrid Madrid -> 83.37.223.151 -> 23:33:37, Friday 30 August, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36
+User: 21:3:37 (GMT+2:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 23:22:36, Sunday 1 September, 2019
+Browser: Mozilla/5.0 (Linux; Android 9; SM-G970W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36
+User: 14:52:34 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 23:22:51, Sunday 1 September, 2019
+Browser: Mozilla/5.0 (Linux; Android 9; SM-G970W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36
+User: 14:52:49 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 23:22:55, Sunday 1 September, 2019
+Browser: Mozilla/5.0 (Linux; Android 9; SM-G970W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36
+User: 14:52:53 (GMT-4:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.239.130 -> 23:23:6, Sunday 1 September, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+User: 14:53:6 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 23:23:7, Sunday 1 September, 2019
+Browser: Mozilla/5.0 (Linux; Android 9; SM-G970W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36
+User: 14:53:5 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 23:23:14, Sunday 1 September, 2019
+Browser: Mozilla/5.0 (Linux; Android 9; SM-G970W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36
+User: 14:53:13 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 23:23:15, Sunday 1 September, 2019
+Browser: Mozilla/5.0 (Linux; Android 9; SM-G970W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36
+User: 14:53:14 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 23:24:6, Sunday 1 September, 2019
+Browser: Mozilla/5.0 (Linux; Android 9; SM-G970W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Mobile Safari/537.36
+User: 14:54:5 (GMT-4:0) 
+------------------------
+Server: HK (Hong Kong) - Central District -> 45.114.166.85 -> 23:3:4, Tuesday 3 September, 2019
+Browser: Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148 [LinkedInApp]
+User: 2:33:3 (GMT+8:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.177 -> 10:7:9, Thursday 5 September, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 192.12.175.49 -> 23:18:48, Tuesday 10 September, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.100 Safari/537.36
+User: 14:48:48 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.179 -> 15:10:52, Sunday 22 September, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 204.101.180.106 -> 17:36:55, Wednesday 25 September, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+User: 10:6:55 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 204.101.180.106 -> 17:37:18, Wednesday 25 September, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+User: 10:7:18 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.177 -> 17:41:20, Wednesday 2 October, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 204.101.180.106 -> 17:1:4, Monday 7 October, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+User: 9:31:4 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.143 -> 8:53:12, Wednesday 9 October, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: NO (Norway) Sor-Trondelag Trondheim -> 46.9.74.67 -> 20:39:47, Wednesday 16 October, 2019
+Browser: Mozilla/5.0 (Linux; Android 8.1.0; SAMSUNG SM-G610F) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36
+User: 19:9:49 (GMT+2:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 22:53:50, Sunday 20 October, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+User: 15:23:53 (GMT-4:0) 
+------------------------
+Server: IR (Iran, Islamic Republic of) - - -> 91.99.164.146 -> 10:46:27, Monday 21 October, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+User: 10:46:26 (GMT+3:30) 
+------------------------
+Server: IR (Iran, Islamic Republic of) - - -> 91.99.164.146 -> 10:47:14, Monday 21 October, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+User: 10:47:14 (GMT+3:30) 
+------------------------
+Server: CA (Canada) - - -> 207.35.46.18 -> 20:29:10, Monday 21 October, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+User: 12:59:10 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 6:32:57, Thursday 24 October, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 23:2:57 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 20:20:16, Thursday 24 October, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 12:50:16 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 22:20:4, Thursday 24 October, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.120 Safari/537.36
+User: 14:50:4 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 16:30:37, Friday 25 October, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 9:0:37 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 7:25:35, Saturday 26 October, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 23:55:34 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 18:17:19, Saturday 26 October, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 10:47:19 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.113 -> 13:36:1, Sunday 27 October, 2019
+Browser: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 6:4:11, Sunday 3 November, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 22:34:11 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 6:4:21, Sunday 3 November, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 22:34:21 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 6:4:37, Sunday 3 November, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 22:34:37 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 6:18:55, Sunday 3 November, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 22:48:55 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 6:19:0, Sunday 3 November, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 22:49:0 (GMT-4:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:20:24, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 19:50:25 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:40:31, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:10:32 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:42:1, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:12:2 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:45:51, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:15:52 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:47:15, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:17:16 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:48:30, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:18:31 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:48:57, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:18:58 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:50:50, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:20:51 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:52:21, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:22:22 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:53:10, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:23:11 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:54:0, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:24:1 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:54:22, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:24:23 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:54:40, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:24:41 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:55:4, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:25:5 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:55:43, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:25:44 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:56:1, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:26:2 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:56:18, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:26:19 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:58:8, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:28:9 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:58:41, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:28:42 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 5:0:37, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:30:38 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 5:0:39, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:30:40 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 5:13:1, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:43:2 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 5:15:13, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:45:14 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 5:15:26, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:45:27 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 5:44:12, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 21:14:13 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 7:21:14, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 22:51:15 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 204.101.180.106 -> 18:20:51, Monday 4 November, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 9:50:51 (GMT-5:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.239.130 -> 7:32:40, Tuesday 5 November, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+User: 23:2:40 (GMT-5:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.239.130 -> 7:32:57, Tuesday 5 November, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+User: 23:2:56 (GMT-5:0) 
+------------------------
+Server: CA (Canada) - - -> 70.27.239.130 -> 7:33:4, Tuesday 5 November, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36
+User: 23:3:4 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 7:53:26, Wednesday 6 November, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36
+User: 23:23:26 (GMT-5:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.66.207 -> 13:31:31, Saturday 9 November, 2019
+Browser: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 23:7:48, Monday 11 November, 2019
+Browser: Mozilla/5.0 (Linux; Android 9; SAMSUNG SM-G970W) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/10.1 Chrome/71.0.3578.99 Mobile Safari/537.36
+User: 14:37:45 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 23:8:44, Monday 11 November, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 14:38:44 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 5:48:45, Wednesday 13 November, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 21:18:45 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 5:59:12, Thursday 14 November, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 21:29:11 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 7:52:30, Thursday 14 November, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 23:22:30 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 165.225.36.119 -> 2:7:55, Friday 15 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+User: 17:37:55 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 165.225.36.119 -> 2:8:2, Friday 15 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+User: 17:38:1 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 165.225.36.119 -> 2:8:5, Friday 15 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+User: 17:38:5 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 5:45:21, Friday 15 November, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+User: 21:15:21 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 5:46:52, Friday 15 November, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+User: 21:16:52 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 5:47:5, Friday 15 November, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+User: 21:17:4 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 5:47:26, Friday 15 November, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+User: 21:17:26 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 0:52:16, Sunday 17 November, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 16:22:15 (GMT-5:0) 
+------------------------
+Server: RU (Russian Federation) - - -> 194.87.96.192 -> 16:53:19, Sunday 17 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36
+User: 16:23:18 (GMT+3:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 6:50:51, Tuesday 19 November, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 22:20:51 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 8:0:23, Tuesday 19 November, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 23:30:23 (GMT-5:0) 
+------------------------
+Server: US (United States) California San Jose -> 13.87.164.240 -> 22:29:20, Saturday 23 November, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.133 Safari/537.36
+User: 10:59:20 (GMT-8:0) 
+------------------------
+Server: CA (Canada) - - -> 207.35.46.18 -> 23:7:42, Wednesday 27 November, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+User: 14:37:42 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 3:43:12, Thursday 28 November, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 19:13:11 (GMT-5:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.66.155 -> 23:31:26, Sunday 1 December, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 5:35:23, Monday 2 December, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 21:5:23 (GMT-5:0) 
+------------------------
+Server: IR (Iran, Islamic Republic of) - - -> 151.241.144.113 -> 10:55:19, Monday 2 December, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0
+User: 10:55:20 (GMT+3:30) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.66.155 -> 4:28:36, Wednesday 4 December, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 16:0:0 (GMT-8:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 6:58:51, Thursday 5 December, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 22:28:50 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 5:47:28, Friday 6 December, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 21:17:28 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 7:47:39, Saturday 7 December, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 23:17:38 (GMT-5:0) 
+------------------------
+Server: US (United States) New York New York -> 66.220.149.45 -> 2:11:18, Sunday 8 December, 2019
+Browser: Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:66.0) Gecko/20100101 Firefox/66.0
+User: 14:41:18 (GMT-8:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:50:49, Sunday 8 December, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+User: 20:20:48 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 6:36:37, Sunday 8 December, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 22:6:37 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 19:18:5, Sunday 8 December, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 10:48:5 (GMT-5:0) 
+------------------------
+Server: US (United States) Illinois Chicago -> 23.237.86.132 -> 4:36:22, Sunday 15 December, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+User: 4:36:21 (GMT+3:30) 
+------------------------
+Server: US (United States) Illinois Chicago -> 23.237.86.132 -> 4:36:27, Sunday 15 December, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+User: 4:36:27 (GMT+3:30) 
+------------------------
+Server: US (United States) Illinois Chicago -> 23.237.86.132 -> 4:36:50, Sunday 15 December, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+User: 4:36:50 (GMT+3:30) 
+------------------------
+Server: US (United States) Illinois Chicago -> 23.237.86.132 -> 4:37:12, Sunday 15 December, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+User: 4:37:12 (GMT+3:30) 
+------------------------
+Server: US (United States) Illinois Chicago -> 23.237.86.132 -> 4:45:45, Sunday 15 December, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+User: 4:45:45 (GMT+3:30) 
+------------------------
+Server: US (United States) Illinois Chicago -> 23.237.86.132 -> 4:46:8, Sunday 15 December, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+User: 4:46:7 (GMT+3:30) 
+------------------------
+Server: US (United States) Illinois Chicago -> 23.237.86.132 -> 5:11:43, Sunday 15 December, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+User: 5:11:42 (GMT+3:30) 
+------------------------
+Server: US (United States) Illinois Chicago -> 23.237.86.132 -> 5:12:58, Sunday 15 December, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.108 Safari/537.36
+User: 5:12:58 (GMT+3:30) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 21:16:47, Sunday 15 December, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 12:46:47 (GMT-5:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.113 -> 6:17:18, Wednesday 18 December, 2019
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 16:0:0 (GMT-8:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 23:24:14, Friday 20 December, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36
+User: 14:54:14 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:3:42, Thursday 26 December, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+User: 19:33:42 (GMT-5:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.111 -> 3:55:23, Friday 27 December, 2019
+Browser: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/78.0.3904.74 Safari/537.36
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 4:21:37, Friday 27 December, 2019
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+User: 19:51:37 (GMT-5:0) 
+------------------------
+Server: US (United States) New York Centereach -> 69.121.211.24 -> 10:34:44, Tuesday 31 December, 2019
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 2:2:51 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 162.223.90.137 -> 15:26:57, Tuesday 31 December, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+User: 15:26:57 (GMT+3:30) 
+------------------------
+Server: US (United States) Oregon Portland -> 162.223.90.137 -> 15:35:58, Tuesday 31 December, 2019
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_2) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+User: 15:35:57 (GMT+3:30) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 20:48:1, Wednesday 1 January, 2020
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+User: 12:18:1 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 22:27:23, Wednesday 1 January, 2020
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.88 Safari/537.36
+User: 13:57:23 (GMT-5:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.113 -> 8:39:6, Friday 10 January, 2020
+Browser: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Safari/537.36
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 205.189.58.82 -> 1:33:54, Saturday 11 January, 2020
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36
+User: 17:3:53 (GMT-5:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.73.207 -> 9:52:47, Saturday 11 January, 2020
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 16:0:0 (GMT-8:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.73.205 -> 20:0:18, Saturday 11 January, 2020
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/41.0.2272.96 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 16:0:0 (GMT-8:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 7:41:42, Sunday 12 January, 2020
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 23:11:42 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 3:31:43, Monday 13 January, 2020
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.77 Safari/537.36
+User: 19:1:43 (GMT-5:0) 
+------------------------
+Server:  ()   -> 66.249.64.111 -> 4:45:50, Thursday 16 January, 2020
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.74 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 16:0:0 (GMT-8:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 5:18:2, Saturday 18 January, 2020
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36
+User: 20:48:2 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 204.101.180.106 -> 0:14:48, Tuesday 21 January, 2020
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36
+User: 15:44:48 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 204.101.180.106 -> 0:27:39, Tuesday 21 January, 2020
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36
+User: 15:57:39 (GMT-5:0) 
+------------------------
+Server: US (United States) - - -> 8.28.16.254 -> 0:15:36, Thursday 23 January, 2020
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36
+User:  () 
+------------------------
+Server: CA (Canada) Ontario Mississauga -> 199.198.251.107 -> 0:15:37, Thursday 23 January, 2020
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36
+User: 15:45:36 (GMT-5:0) 
+------------------------
+Server: CA (Canada) - - -> 207.35.46.18 -> 18:34:48, Thursday 23 January, 2020
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.117 Safari/537.36
+User: 10:4:47 (GMT-5:0) 
+------------------------
+Server: US (United States) - - -> 8.28.16.254 -> 6:59:48, Sunday 26 January, 2020
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+User:  () 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 199.198.251.80 -> 6:59:49, Sunday 26 January, 2020
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+User: 22:29:48 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 199.198.251.80 -> 8:55:37, Sunday 26 January, 2020
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+User: 0:25:37 (GMT-5:0) 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 199.198.251.80 -> 8:56:52, Sunday 26 January, 2020
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+User: 0:26:51 (GMT-5:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.113 -> 16:19:43, Thursday 6 February, 2020
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.120 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 16:0:0 (GMT-8:0) 
+------------------------
+Server: DE (Germany) Bayern Zorneding -> 193.174.131.14 -> 13:51:35, Friday 7 February, 2020
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:68.0) Gecko/20100101 Firefox/68.0
+User: 11:21:35 (GMT+1:0) 
+------------------------
+Server: DK (Denmark) Midtjylland Struer -> 83.94.243.9 -> 22:38:55, Saturday 8 February, 2020
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:8:55 (GMT+1:0) 
+------------------------
+Server: DK (Denmark) Midtjylland Struer -> 83.94.243.9 -> 22:40:52, Saturday 8 February, 2020
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:10:52 (GMT+1:0) 
+------------------------
+Server: DK (Denmark) Midtjylland Struer -> 83.94.243.9 -> 22:45:8, Saturday 8 February, 2020
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:15:8 (GMT+1:0) 
+------------------------
+Server: DK (Denmark) Midtjylland Struer -> 83.94.243.9 -> 22:47:33, Saturday 8 February, 2020
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.70 Safari/537.36
+User: 20:17:33 (GMT+1:0) 
+------------------------
+Server: DE (Germany) Bayern Zorneding -> 193.174.131.14 -> 19:34:55, Tuesday 18 February, 2020
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:68.0) Gecko/20100101 Firefox/68.0
+User: 17:4:54 (GMT+1:0) 
+------------------------
+Server: DE (Germany) Bayern Zorneding -> 193.174.131.14 -> 19:40:34, Tuesday 18 February, 2020
+Browser: Mozilla/5.0 (Windows NT 6.1; WOW64; rv:68.0) Gecko/20100101 Firefox/68.0
+User: 17:10:34 (GMT+1:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.113 -> 8:42:6, Thursday 20 February, 2020
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.120 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 16:0:0 (GMT-8:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 20:21:58, Sunday 23 February, 2020
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+User: 11:51:58 (GMT-5:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.173 -> 20:23:15, Sunday 23 February, 2020
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.130 Safari/537.36
+User: 11:53:15 (GMT-5:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.115 -> 16:12:57, Monday 24 February, 2020
+Browser: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/79.0.3945.120 Safari/537.36
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: CA (Canada) - - -> 207.35.46.18 -> 20:51:39, Monday 24 February, 2020
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.116 Safari/537.36
+User: 12:21:38 (GMT-5:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.111 -> 1:10:2, Wednesday 26 February, 2020
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.92 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 16:0:0 (GMT-8:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.113 -> 19:59:4, Wednesday 26 February, 2020
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.92 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 16:0:0 (GMT-8:0) 
+------------------------
+Server: DE (Germany) Bayern Nonnenhorn -> 212.62.213.66 -> 18:1:18, Tuesday 3 March, 2020
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+User: 15:31:32 (GMT+1:0) 
+------------------------
+Server: DE (Germany) Bayern Nonnenhorn -> 212.62.213.66 -> 18:2:21, Tuesday 3 March, 2020
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+User: 15:32:35 (GMT+1:0) 
+------------------------
+Server: DE (Germany) Bayern Nonnenhorn -> 212.62.213.66 -> 18:6:3, Tuesday 3 March, 2020
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+User: 15:36:16 (GMT+1:0) 
+------------------------
+Server: DE (Germany) Bayern Nonnenhorn -> 212.62.213.66 -> 18:7:18, Tuesday 3 March, 2020
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+User: 15:37:31 (GMT+1:0) 
+------------------------
+Server: KE (Kenya) - - -> 196.207.177.133 -> 20:28:24, Tuesday 3 March, 2020
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+User: 19:58:24 (GMT+3:0) 
+------------------------
+Server: KE (Kenya) - - -> 196.207.177.133 -> 20:31:30, Tuesday 3 March, 2020
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 Safari/537.36
+User: 20:1:30 (GMT+3:0) 
+------------------------
+Server: DE (Germany) Bayern Nonnenhorn -> 212.62.213.66 -> 12:40:20, Wednesday 4 March, 2020
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Safari/537.36
+User: 10:10:34 (GMT+1:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.121 -> 8:36:38, Friday 13 March, 2020
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.92 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 16:0:0 (GMT-8:0) 
+------------------------
+Server: CA (Canada) Ontario Scarborough -> 107.159.25.153 -> 7:42:11, Thursday 19 March, 2020
+Browser: Mozilla/5.0 (Linux; Android 10; SM-G970W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36
+User: 0:12:10 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.121 -> 21:46:37, Thursday 19 March, 2020
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.92 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.241 -> 9:50:12, Monday 23 March, 2020
+Browser: Mozilla/5.0 (Linux; Android 10; SM-G970W) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Mobile Safari/537.36
+User: 1:20:10 (GMT-4:0) 
+------------------------
+Server: IR (Iran, Islamic Republic of) - - -> 37.98.63.224 -> 5:30:48, Thursday 26 March, 2020
+Browser: Mozilla/5.0 (Linux; Android 7.0; SM-N920C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Mobile Safari/537.36
+User: 5:30:47 (GMT+4:30) 
+------------------------
+Server: IR (Iran, Islamic Republic of) - - -> 37.98.63.224 -> 5:36:17, Thursday 26 March, 2020
+Browser: Mozilla/5.0 (Linux; Android 7.0; SM-N920C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Mobile Safari/537.36
+User: 5:36:15 (GMT+4:30) 
+------------------------
+Server: IR (Iran, Islamic Republic of) - - -> 37.98.63.224 -> 5:36:34, Thursday 26 March, 2020
+Browser: Mozilla/5.0 (Linux; Android 7.0; SM-N920C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Mobile Safari/537.36
+User: 5:36:33 (GMT+4:30) 
+------------------------
+Server: IR (Iran, Islamic Republic of) - - -> 37.98.63.224 -> 5:37:33, Thursday 26 March, 2020
+Browser: Mozilla/5.0 (Linux; Android 7.0; SM-N920C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Mobile Safari/537.36
+User: 5:37:32 (GMT+4:30) 
+------------------------
+Server: IR (Iran, Islamic Republic of) - - -> 37.98.63.224 -> 5:37:48, Thursday 26 March, 2020
+Browser: Mozilla/5.0 (Linux; Android 7.0; SM-N920C) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Mobile Safari/537.36
+User: 5:37:47 (GMT+4:30) 
+------------------------
+Server: CA (Canada) Quebec Saint-laurent -> 184.162.252.211 -> 4:2:47, Sunday 29 March, 2020
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+User: 19:32:47 (GMT-4:0) 
+------------------------
+Server: CA (Canada) Quebec Saint-laurent -> 184.162.252.211 -> 4:6:40, Sunday 29 March, 2020
+Browser: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36
+User: 19:36:40 (GMT-4:0) 
+------------------------
+Server: US (United States) - - -> 18.217.223.118 -> 2:5:24, Saturday 4 April, 2020
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+User:  () 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 199.198.251.80 -> 2:5:25, Saturday 4 April, 2020
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+User: 17:35:24 (GMT-4:0) 
+------------------------
+Server: US (United States) - - -> 8.28.16.254 -> 9:18:13, Sunday 12 April, 2020
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+User:  () 
+------------------------
+Server: CA (Canada) Ontario Toronto -> 199.198.251.80 -> 9:18:14, Sunday 12 April, 2020
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.163 Safari/537.36
+User: 0:48:13 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.66.137 -> 11:39:58, Tuesday 21 April, 2020
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.92 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: US (United States) Oregon Portland -> 100.42.22.241 -> 11:29:59, Friday 24 April, 2020
+Browser: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.113 Safari/537.36
+User: 2:59:59 (GMT-4:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.123 -> 4:29:35, Monday 27 April, 2020
+Browser: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/80.0.3987.92 Safari/537.36
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.119 -> 10:56:48, Monday 27 April, 2020
+Browser: Mozilla/5.0 (Linux; Android 6.0.1; Nexus 5X Build/MMB29P) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.92 Mobile Safari/537.36 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)
+User: 17:0:0 (GMT-7:0) 
+------------------------
+Server: HK (Hong Kong) - Central District -> 143.89.41.238 -> 14:37:51, Tuesday 28 April, 2020
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+User: 18:7:50 (GMT+8:0) 
+------------------------
+Server: HK (Hong Kong) - Central District -> 143.89.41.238 -> 14:38:0, Tuesday 28 April, 2020
+Browser: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.122 Safari/537.36
+User: 18:7:59 (GMT+8:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.64.119 -> 22:43:43, Tuesday 28 April, 2020
+Browser: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/80.0.3987.92 Safari/537.36
+User: 11:13:29 (GMT-7:0) 
+------------------------
+Server: US (United States) California Mountain View -> 66.249.70.25 -> 21:46:27, Friday 8 May, 2020
+Browser: Mozilla/5.0 AppleWebKit/537.36 (KHTML, like Gecko; compatible; Googlebot/2.1; +http://www.google.com/bot.html) Chrome/81.0.4044.108 Safari/537.36
+User: 10:16:25 (GMT-7:0) 
+------------------------

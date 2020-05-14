@@ -1,0 +1,107 @@
+@charset "utf-8";
+/* CSS Document */
+
+@font-face{
+	font-family: "Lato";
+	font-style: normal;
+	src: url(../font/Lato.ttf);
+	src: url(../font/Lato.ttf); /*if IE */
+	src: local("Grandesign Regular"), url("../font/Lato.ttf") format("truetype"); /* non-IE */	
+}
+
+body, #container{
+	font-family:"Trebuchet MS", "Lato", Arial, Helvetica, sans-serif;
+	font-size:13px;
+}
+
+#motto{
+	color:#F30;
+	font-size:14px;
+}
+
+#container{
+	margin:0px auto;
+	min-width:800px;
+	width:60%;
+}
+
+#prs_cont, #menu, #footer, #sub_title{
+	font-family:"Lato";
+}
+
+#prs_cont{
+	font-size:medium;
+	text-align:center;
+}
+
+#prs_info, #prs_photo{
+	display:inline-block;
+	text-align:left;
+}
+
+#prs_info{
+	width:400px;
+	vertical-align:top;
+}
+
+#prs_photo{
+	width:150px;
+	height:150px;
+	border-radius:100%;
+}
+
+#name{
+	font-size:48px;
+}
+
+#menu{
+	display:none;
+	/*
+	font-size:16px;
+	font-weight:bold;
+	text-align:center;
+	*/
+}
+
+.menu_item{
+	display:inline-block;
+	padding:10px;
+	margin-left:-4px;
+}
+
+a{
+	text-decoration:none;
+	color:#000;
+}
+
+a:hover{
+	color:#F30;
+}
+
+#info{
+	padding:20px;
+	padding-bottom:0px;
+}
+
+#sub_title{
+	font-size:18px;
+	font-weight:bold;
+	color:#03C;
+}
+
+#info_content{
+	margin:20px 40px;
+}
+
+.aLable{
+	display:block;
+	margin-top:10px;
+	margin-bottom:3px;
+	font-weight:bold;
+}
+
+#footer{
+	text-align:center;
+	padding-bottom:20px;
+	font-size:14px;
+}

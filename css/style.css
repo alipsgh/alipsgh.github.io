@@ -1,105 +1,199 @@
 @charset "utf-8";
 /* CSS Document */
 
-body{
-	// background:#EEE;
-	background-image:url(../img/patt.png)
+@font-face{
+	font-family: "Lato";
+	font-style: normal;
+	src: url(../font/Lato.ttf);
+	src: url(../font/Lato.ttf); /*if IE */
+	src: local("Grandesign Regular"), url("../font/Lato.ttf") format("truetype"); /* non-IE */	
+}
+
+body, #container{
+	font-family:"Lato", "Trebuchet MS", "Lato", Arial, Helvetica, sans-serif;
+	font-size:12pt;
+	background-color: #010816;
+	color: #FFF;
+}
+
+#motto{
+	color:#F30;
+	font-size:14px;
 }
 
 #container{
-	margin:50px auto;
+	margin:0px auto;
+	min-width:800px;
+	max-width:800px;
+	background-color: #01182d;
+}
+
+#prs_cont, #menu, #footer, .sub_title{
+	font-family:"Lato";
+	color: #FFF;
+}
+
+#prs_cont{
+	font-size:medium;
+	text-align:center;
+	background-image: url("../img/great_photo.png");
+	background-size: 800px auto;
+    background-repeat: no-repeat;
 	color:#FFF;
-	max-width:635px;
-	width:635px;
-	font-size:11pt;
-	font-family:"Ubuntu", "Trebuchet MS", Arial, Helvetica, sans-serif
+	padding-top: 15px;
+	padding-bottom: 15px;
+    border-bottom: thin solid #42cbf4;
 }
 
-#left_side, #right_side{
-	height:205px;
-	display:inline-block
+#prs_info, #prs_photo{
+	display:inline-block;
+	text-align:left;
 }
 
-#left_side{
-	position:relative;
-	padding:20px;
-	background-image:url(../img/card_bg.png);
-	float:left;
+#prs_info{
+	width:400px;
+	vertical-align:top;
 }
 
-#right_side{
-	position:relative;
-	padding:20px;
-	background-color:#06C;
-	float:left;
+#prs_photo{
+	width:150px;
+	height:150px;
+	border-radius:100%;
+}
+
+#name{
+	font-size:48px;
+}
+
+#menu{
+	font-size:16px;
+	font-weight:bold;
+	text-align:center;
+
+}
+
+.menu_item{
+	display:inline-block;
+	padding:10px;
+	margin-left:-4px;
 }
 
 a{
 	text-decoration:none;
-	color:#FFF;
+	color: #6CF;
+
 }
 
-a:hover{
+.a_white{
+	color:#FFF;
+	text-decoration:none;
+}
+
+a:hover, .a_white:hover{
+	/* color:#0b80ed; */
+	color:#F90
+}
+
+#info{
+	padding:20px;
+	padding-bottom:0px;
+	border-top: thin solid #010816;
+	border-bottom: thin solid #010816;
+	font-size:12pt;
+}
+
+.sub_title{
+	font-size:18px;
+	font-weight:bold;
+	color:#0b80ed;
+}
+
+.info_content{
+	margin:20px 40px;
+	text-align:justify;
+	font-size:12pt;
+}
+
+.info_philosophy{
+	margin:20px 40px;
+	text-align: center;
+}
+
+.aLable{
+	display:block;
+	margin-top:10px;
+	margin-bottom:3px;
+	font-weight:bold;
+}
+
+#footer{
+	text-align:center;
+    padding-top:20px;
+	padding-bottom:20px;
+	font-size:10pt;
+}
+
+.footer_icon{
+	width:24px;
+	height:24px;
+}
+
+.footer_mid_icons{
+	padding-left:5px;
+	padding-right:5px;
+}
+
+
+/*** PUBLICATIONS ***/
+
+#conf, #jour{
+}
+
+.conf_jour_book{
+    font-weight: bold;
+    color: #42cbf4;
+    font-size: 16px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.paper{
+    width: 640px;
+    margin: 10px auto;
+    font-size: 11pt;
+}
+
+.paper_title{
+    font-weight:bold;
+	color:#6CC;
+}
+
+.paper_src a{
+	color:#6C0;
+}
+
+.paper_src a:hover{
+	color:#F93;
+}
+
+#news_table{
+	margin:20px 40px;
+	text-align:justify;
+}
+
+#news_table table, tr, td{
+	border:none;
+	border-spacing:0em 0em;
+}
+
+.news_month{
+	text-align:right
+}
+
+#news_table .news_month, .news_year{
 	color:#F90;
 }
 
-#transparent_layer{
-	background-color:#000;
-	position:absolute;
-	opacity: 0.5;
-	width:100%;
-	height:100%;
-	margin:-20px;
-	z-index:0;
-}
-
-#photo{
-	width:128px;
-	height:128px;
-	border-radius:100%;
-	background-image:url(../img/ali.jpg);
-	border:#FFF 2px solid;
-	background-position:center;
-	background-size: 128px 128px;
-}
-
-#name{
-	font-family:"Yanone Kaffeesatz";
-	font-size:28pt;
-}
-
-#position{
-	font-family:"Yanone Kaffeesatz";
-	font-size:18pt;
-}
-
-#aff_info{
-	position:relative;
-	z-index:1;
-}
-
-#usraff{
-	margin-top:20px;
-}
-
-#contact_info{
-	position:relative;
-	z-index:1;
-	font-size:10pt;
-	margin-top:20px;
-}
-
-#iconic_links{
-	text-align:center;
-	padding-top:30px;
-}
-
-#iconic_links img{
-	width:28px;
-	height:28px;
-}
-
-#github_icon{
-	margin-left:5px;
-	margin-right:5px;
+.news_year{
+	padding-right:5px;
 }
