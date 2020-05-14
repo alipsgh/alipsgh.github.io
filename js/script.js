@@ -45,9 +45,9 @@ function load_info(loc){
     }
     loc = 'pg/' + loc;
 
-    jQuery.get(loc, function(data)){
+    jQuery.get(loc, function(data){
         $('#info').html(data);
-    }
+    });
 
     /*
     txt = loadStrings(loc)
