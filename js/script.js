@@ -44,7 +44,11 @@ function load_info(loc){
             loc = 'about_me.html';
     }
     loc = 'pg/' + loc;
+    $('#info').html(data);
+    /*
 	$.post(loc, function(data){
-		$('#info').html(data);
+
 	});
+	*/
+	return false
 }
