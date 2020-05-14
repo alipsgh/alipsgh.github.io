@@ -44,13 +44,24 @@ function load_info(loc){
             loc = 'about_me.html';
     }
     loc = 'pg/' + loc;
+
+    jQuery.get(loc, function(data)){
+        $('#info').html(data);
+    }
+
+
+    txt = loadStrings(loc)
+    text = createP(join(txt, "<br/>"))
+
+    /*
     var fs = require('fs');
     var data = fs.readFileSync(loc).toString()
-    $('#info').html(data);
-    /*
+
 	$.post(loc, function(data){
 
 	});
-	*/
+
+
 	return false
+	*/
 }
