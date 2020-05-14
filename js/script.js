@@ -1,5 +1,6 @@
+/*
 $(document).ready(function(){
-	
+
 	date = new Date();
 	local_time = date.getHours() + ':' + date.getMinutes() + ':' + date.getSeconds();
 	local_gmt = getGMT(date);
@@ -9,7 +10,7 @@ $(document).ready(function(){
 		// url: "ip_catcher.php",
 		data: {time: local_time, GMT: local_gmt}
 	});
-	
+
 });
 
 function getGMT(date){
@@ -21,6 +22,7 @@ function getGMT(date){
 	else { gmt_str = 'GMT' + gmtH + ':' + gmtM; }
 	return gmt_str;
 }
+*/
 
 /* The load_info function is written for the new webpage. */
 
