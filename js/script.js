@@ -6,7 +6,7 @@ $(document).ready(function(){
 
 	$.ajax({
 		type:"POST",
-		url: "ip_catcher.php",
+		// url: "ip_catcher.php",
 		data: {time: local_time, GMT: local_gmt}
 	});
 	
