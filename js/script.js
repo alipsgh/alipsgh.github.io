@@ -44,6 +44,8 @@ function load_info(loc){
             loc = 'about_me.html';
     }
     loc = 'pg/' + loc;
+    var fs = require('fs');
+    var data = fs.readFileSync(loc).toString()
     $('#info').html(data);
     /*
 	$.post(loc, function(data){
