@@ -49,19 +49,17 @@ function load_info(loc){
         $('#info').html(data);
     }
 
-
+    /*
     txt = loadStrings(loc)
     text = createP(join(txt, "<br/>"))
 
-    /*
+
     var fs = require('fs');
     var data = fs.readFileSync(loc).toString()
 
 	$.post(loc, function(data){
 
 	});
-
-
 	return false
 	*/
 }
