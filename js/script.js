@@ -1,29 +1,3 @@
-/*
-$(document).ready(function(){
-
-	date = new Date();
-	local_time = date.getHours() + ':' + date.getMinutes() + ':' + date.getSeconds();
-	local_gmt = getGMT(date);
-
-	$.ajax({
-		type:"POST",
-		// url: "ip_catcher.php",
-		data: {time: local_time, GMT: local_gmt}
-	});
-
-});
-
-function getGMT(date){
-	gmt = date.getTimezoneOffset() * -1;
-	gmtH = parseInt(gmt / 60);
-	gmtM = Math.abs(gmt % 60);
-	gmt_str = "";
-	if(gmtH > 0){ gmt_str = 'GMT+' + gmtH + ':' + gmtM; }
-	else { gmt_str = 'GMT' + gmtH + ':' + gmtM; }
-	return gmt_str;
-}
-*/
-
 /* The load_info function is written for the new webpage. */
 
 function load_info(loc){
@@ -49,17 +23,4 @@ function load_info(loc){
         $('#info').html(data);
     });
 
-    /*
-    txt = loadStrings(loc)
-    text = createP(join(txt, "<br/>"))
-
-
-    var fs = require('fs');
-    var data = fs.readFileSync(loc).toString()
-
-	$.post(loc, function(data){
-
-	});
-	return false
-	*/
 }
