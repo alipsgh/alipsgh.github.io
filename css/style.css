@@ -163,16 +163,16 @@ a:hover, .a_white:hover{
     font-size: 11pt;
 }
 
-.paper_title{
+.paper_title, .project_title{
     font-weight:bold;
 	color:#6CC;
 }
 
-.paper_src a{
+.paper_src a, .project a{
 	color:#6C0;
 }
 
-.paper_src a:hover{
+.paper_src a:hover, .project a:hover{
 	color:#F93;
 }
 
