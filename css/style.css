@@ -157,7 +157,7 @@ a:hover, .a_white:hover{
     margin-bottom: 20px;
 }
 
-.paper{
+.paper, .project{
     width: 640px;
     margin: 10px auto;
     font-size: 11pt;
