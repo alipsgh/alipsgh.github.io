@@ -5,6 +5,9 @@ function load_info(loc){
         case 'about_me':
             loc = 'about_me.html';
             break;
+        case 'projects':
+            loc = 'projects.html';
+            break;
         case 'research':
             loc = 'research_interests.html';
             break;
