@@ -197,3 +197,9 @@ a:hover, .a_white:hover{
 .news_year{
 	padding-right:5px;
 }
+
+.project_content{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: left;
+}
