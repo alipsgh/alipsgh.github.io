@@ -204,9 +204,10 @@ a:hover, .a_white:hover{
 	text-align: left;
 }
 
-.project_img{
+.project_img {
     padding-bottom: 5px;
     padding-top: 5px;
+    text-align: center;
 }
 
 .img_wide{
@@ -214,5 +215,9 @@ a:hover, .a_white:hover{
 }
 
 .img_half_wide{
-	width: 100%;
+	width: 50%;
+}
+
+.img_qrt_wide {
+	width: 25%;
 }
