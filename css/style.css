@@ -203,3 +203,12 @@ a:hover, .a_white:hover{
 	padding-bottom: 5px;
 	text-align: left;
 }
+
+.project_img{
+    padding-bottom: 5px;
+    padding-top: 5px;
+}
+
+.img_wide{
+	width: 100%;
+}
