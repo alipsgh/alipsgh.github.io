@@ -199,12 +199,11 @@ a:hover, .a_white:hover{
 }
 
 .project {
-	padding-bottom: 5px;
-	border-bottom: thin solid #6CC;
+	padding-bottom: 10px;
+	border-bottom: thin dashed #6CC;
 }
 
 .project:last-child {
-	padding-bottom: 5px;
 	border-bottom: none;
 }
 
