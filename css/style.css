@@ -198,6 +198,16 @@ a:hover, .a_white:hover{
 	padding-right:5px;
 }
 
+.project {
+	padding-bottom: 5px;
+	border-bottom: thin solid #6CC;
+}
+
+.project:last-child {
+	padding-bottom: 5px;
+	border-bottom: none;
+}
+
 .project_content{
 	padding-top: 5px;
 	padding-bottom: 5px;
